@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" , Tvri
-http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993
+http://210.210.155.37/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/index.m3u8
